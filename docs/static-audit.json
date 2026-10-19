@@ -1,0 +1,514 @@
+{
+  "date": "2026-10-19",
+  "source": "site-html/index.html",
+  "structural_html": {
+    "anchor_count": 53,
+    "anchors_missing_href": 0,
+    "empty_href_count": 0,
+    "fragment_link_count": 12,
+    "missing_fragment_targets": [],
+    "id_count": 17,
+    "duplicate_ids": {},
+    "main_count": 1,
+    "main_ids": [
+      "conteudo"
+    ],
+    "unsafe_target_blank_links": [],
+    "telephone_anchor_links": []
+  },
+  "images": {
+    "img_elements": 40,
+    "local_source_references": 39,
+    "unique_local_source_files": 18,
+    "missing_local_files": [],
+    "invalid_images": [],
+    "empty_alt_images": [
+      {
+        "src": "assets/southern-cross.svg",
+        "id": null,
+        "role": "decorative or populated dynamically; should be intentionally reviewed"
+      },
+      {
+        "src": "assets/southern-cross.svg",
+        "id": null,
+        "role": "decorative or populated dynamically; should be intentionally reviewed"
+      },
+      {
+        "src": "assets/southern-cross.svg",
+        "id": null,
+        "role": "decorative or populated dynamically; should be intentionally reviewed"
+      },
+      {
+        "src": "assets/southern-cross.svg",
+        "id": null,
+        "role": "decorative or populated dynamically; should be intentionally reviewed"
+      },
+      {
+        "src": "",
+        "id": "lightboxImage",
+        "role": "decorative or populated dynamically; should be intentionally reviewed"
+      }
+    ]
+  },
+  "external_links": {
+    "http_occurrences": 40,
+    "unique_urls": 22,
+    "confirmed_opening_count": 12,
+    "not_confirmed_count": 10,
+    "records": [
+      {
+        "number": 1,
+        "url": "https://astronomiaufrpe.wixsite.com/desvendando",
+        "description": "Página principal histórica do projeto (Wix)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 2,
+        "url": "https://astronomiaufrpe.wixsite.com/desvendando/single-post/2017/05/29/iii-semana-da-populariza%C3%A7%C3%A3o-da-ci%C3%AAncia-no-semi%C3%A1rido-monteiro",
+        "description": "Registro da III Semana da Popularização da Ciência no Semiárido (Wix)",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 3,
+        "url": "https://desvendandoufrpe.blogspot.com/2014/05/o-que-aconteceu-iv-mostra-de-astronomia.html",
+        "description": "Relato da IV Mostra de Astronomia (2014)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 4,
+        "url": "https://desvendandoufrpe.blogspot.com/2014/09/desvendando-o-ceu-austral-participa-de.html",
+        "description": "Atividade em Serra Talhada (2014)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 5,
+        "url": "https://www.cultura.pe.gov.br/canal/espacosculturais/programacao-no-observatorio-da-torre-malakoff-convida-interessados-em-astronomia/",
+        "description": "Programação da Torre Malakoff (Secretaria de Cultura de PE)",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 6,
+        "url": "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi/impacton/noticias/oasi-recebe-visitantes-na-semana-nacional-de-ciencia-e-tecnologia-2021",
+        "description": "OASI na Semana Nacional de Ciência e Tecnologia de 2021 (Observatório Nacional)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 7,
+        "url": "https://www.gov.br/observatorio/pt-br/assuntos/noticias/observatorio-astronomico-do-sertao-de-itaparica-oasi-on-de-portas-abertas-na-snct-2022",
+        "description": "OASI de portas abertas na SNCT 2022 (Observatório Nacional)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 8,
+        "url": "https://www.alepe.pe.gov.br/2023/09/20/comissao-de-ciencia-e-tecnologia-realiza-acao-para-popularizar-a-astronomia/",
+        "description": "Ação de popularização da astronomia na ALEPE",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 9,
+        "url": "https://sigs.ufrpe.br/sigaa/public/programa/noticias_desc.jsf?id=400&lc=pt_BR&noticia=42351205",
+        "description": "Registro no SIGAA/UFRPE",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 10,
+        "url": "https://www.ufrpe.br/es/not%C3%ADcias/ufrpe-inaugura-museu-de-ci%C3%AAncias-desvendando-o-c%C3%A9u-austral/",
+        "description": "Notícia da inauguração do Museu de Ciências (UFRPE)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 11,
+        "url": "https://ufrpe.br/not%C3%ADcias/semana-de-populariza%C3%A7%C3%A3o-da-ci%C3%AAncia-no-semi%C3%A1rido-chega-%C3%A0-d%C3%A9cima-edi%C3%A7%C3%A3o/",
+        "description": "Notícia da Semana POP (UFRPE)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 12,
+        "url": "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi",
+        "description": "Página institucional do OASI (Observatório Nacional)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 13,
+        "url": "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi/impacton/noticias/visita-tecnica-ao-oasi-2013-27-de-maio-de-2022/",
+        "description": "Registro de visita técnica ao OASI (Observatório Nacional)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 14,
+        "url": "https://sectipe.blogspot.com/2020/10/clipmail-secti-08102020.html",
+        "description": "Clipping da Secti de 2020",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 15,
+        "url": "https://www.museuitinerante.com/serra-do-mag%C3%A9",
+        "description": "Referência sobre o meteorito Serra do Magé",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 16,
+        "url": "https://www.globgov.com/BR/Alagoinha/542516145768365/Prefeitura-Municipal-de-Alagoinha-PE",
+        "description": "Página atribuída à Prefeitura de Alagoinha (Globgov)",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 17,
+        "url": "https://drive.google.com/drive/folders/1LGv4pSrye9NgpvY-9K5fTtsJt1vxiGj4?usp=sharing",
+        "description": "Pasta compartilhada de fotografias no Google Drive",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 18,
+        "url": "https://www.instagram.com/desvendandoceuaustral?obrf=am80NDhvcHRkZ2U1",
+        "description": "Perfil do projeto no Instagram",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 19,
+        "url": "https://desvendandoufrpe.blogspot.com/2014/09/desvendando-o-ceu-austral-participa-de_16.html",
+        "description": "Atividade no IFPE de Belo Jardim (2014)",
+        "status": "opening_confirmed_by_web_reader",
+        "interpretation": "Abertura confirmada pela ferramenta de leitura web em 19/10/2026."
+      },
+      {
+        "number": 20,
+        "url": "https://www.facebook.com/UFRPEoficial/posts/samyr-pessoa-da-silva-esse-foi-o-nome-escolhido-por-71-dos-estudantes-da-ufrpe-p/3466004156789113/",
+        "description": "Publicação da UFRPE no Facebook",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 21,
+        "url": "https://wa.me/5581988094943",
+        "description": "WhatsApp do contato institucional 1",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      },
+      {
+        "number": 22,
+        "url": "https://wa.me/5581986545345",
+        "description": "WhatsApp do contato institucional 2",
+        "status": "not_confirmed_by_web_reader",
+        "interpretation": "Não verificado de forma conclusiva; isso não comprova que o destino esteja quebrado."
+      }
+    ]
+  },
+  "favicon": {
+    "sha256_expected_svg": "e88830a66b6c014045cd6e7d6e9ba0734367d782eacd61d13b8751793f97d634",
+    "matches_user_attachment": {
+      "public/favicon.svg": true,
+      "site-html/favicon.svg": true
+    },
+    "ico": {
+      "public/favicon.ico": {
+        "format": "ICO",
+        "sizes": [
+          [
+            16,
+            16
+          ],
+          [
+            24,
+            24
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            48,
+            48
+          ],
+          [
+            64,
+            64
+          ]
+        ]
+      },
+      "site-html/favicon.ico": {
+        "format": "ICO",
+        "sizes": [
+          [
+            16,
+            16
+          ],
+          [
+            24,
+            24
+          ],
+          [
+            32,
+            32
+          ],
+          [
+            48,
+            48
+          ],
+          [
+            64,
+            64
+          ]
+        ]
+      }
+    }
+  },
+  "scripts": {
+    "inline_script_count": 2,
+    "node_check": [
+      {
+        "script_index": 1,
+        "returncode": 0,
+        "stderr": ""
+      },
+      {
+        "script_index": 2,
+        "returncode": 0,
+        "stderr": ""
+      }
+    ]
+  },
+  "css": [
+    {
+      "file": "site-html/index.html <style>",
+      "errors": [],
+      "error_count": 0
+    },
+    {
+      "file": "src/styles.css",
+      "errors": [],
+      "error_count": 0
+    }
+  ],
+  "tsx_syntax_only": [
+    {
+      "file": "src/routes/index.tsx",
+      "diagnostics": []
+    },
+    {
+      "file": "src/routes/__root.tsx",
+      "diagnostics": []
+    },
+    {
+      "file": "src/components/SouthernCross.tsx",
+      "diagnostics": []
+    }
+  ],
+  "chromium": {
+    "chromium_version": "144.0.7559.96",
+    "route_method": "Playwright + headless Chromium; document.set_content with the actual static HTML and actual local assets inlined as data URLs because URL/file navigation is blocked by administrative policy",
+    "viewport_widths": [
+      320,
+      360,
+      375,
+      390,
+      414,
+      600,
+      760,
+      768,
+      820,
+      980,
+      1024,
+      1080,
+      1180,
+      1280,
+      1440
+    ],
+    "theme_modes": [
+      "light",
+      "dark"
+    ],
+    "rendered_configurations": 30,
+    "layout_problem_count": 0,
+    "overflow_count": 0,
+    "broken_images_count_by_configs": 0,
+    "image_dimension_errors_by_configs": 0,
+    "photo_text_overlap_count_by_configs": 0,
+    "menu_open_state": [
+      "flex",
+      "true"
+    ],
+    "menu_closed_state": [
+      "none",
+      "false"
+    ],
+    "theme_dark_test": "dark",
+    "theme_aria_pressed": "true",
+    "theme_light_test": "light",
+    "lightbox_open": true,
+    "lightbox_closed_with_escape": true,
+    "skip_link_first_tab_stop": true,
+    "skip_link_visible_on_focus": true,
+    "console_errors": [],
+    "page_errors": []
+  },
+  "contrast": {
+    "static_eyebrow_color": "#815700",
+    "white_background": "#ffffff",
+    "contrast_ratio": 6.37,
+    "wcag_normal_text_minimum": "4.5:1"
+  },
+  "notes": [
+    "Chromium rendering and interaction tests cover the standalone static HTML publication in site-html/.",
+    "TSX files were syntax-transpiled only; a complete Vite/TanStack production build was not executed because project packages are not installed in this review environment.",
+    "External destinations not confirmed by the reader tool should be opened manually; network blocks, redirects, or login requirements can prevent automated confirmation.",
+    "The React/TanStack route src/routes/index.tsx was also AST-audited: 8 IDs, no unresolved fragment links, all imported image files exist, and all target=_blank anchors include noopener+noreferrer. The component source contains 20 named external URL constants and a WhatsApp link template used for two contacts."
+  ],
+  "react_route_audit": {
+    "file": "src/routes/index.tsx",
+    "jsx_anchor_count": 17,
+    "static_id_count": 8,
+    "ids": [
+      "conteudo",
+      "inicio",
+      "sobre",
+      "linha-do-tempo",
+      "atividades",
+      "oasi",
+      "parcerias",
+      "contato"
+    ],
+    "internal_fragment_hrefs": [
+      "#inicio",
+      "#conteudo",
+      "#contato",
+      "#atividades",
+      "#oasi",
+      "#contato"
+    ],
+    "missing_internal_fragments": [],
+    "open_new_tab_links": 8,
+    "unsafe_open_new_tab_links": [],
+    "named_external_url_constants": 20,
+    "external_constant_urls": [
+      "https://www.instagram.com/desvendandoceuaustral?obrf=am80NDhvcHRkZ2U1",
+      "https://drive.google.com/drive/folders/1LGv4pSrye9NgpvY-9K5fTtsJt1vxiGj4?usp=sharing",
+      "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi",
+      "https://ufrpe.br/not%C3%ADcias/semana-de-populariza%C3%A7%C3%A3o-da-ci%C3%AAncia-no-semi%C3%A1rido-chega-%C3%A0-d%C3%A9cima-edi%C3%A7%C3%A3o/",
+      "https://www.ufrpe.br/es/not%C3%ADcias/ufrpe-inaugura-museu-de-ci%C3%AAncias-desvendando-o-c%C3%A9u-austral/",
+      "https://sigs.ufrpe.br/sigaa/public/programa/noticias_desc.jsf?id=400&lc=pt_BR&noticia=42351205",
+      "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi/impacton/noticias/visita-tecnica-ao-oasi-2013-27-de-maio-de-2022/",
+      "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/oasi/impacton/noticias/oasi-recebe-visitantes-na-semana-nacional-de-ciencia-e-tecnologia-2021",
+      "https://www.gov.br/observatorio/pt-br/assuntos/noticias/observatorio-astronomico-do-sertao-de-itaparica-oasi-on-de-portas-abertas-na-snct-2022",
+      "https://www.alepe.pe.gov.br/2023/09/20/comissao-de-ciencia-e-tecnologia-realiza-acao-para-popularizar-a-astronomia/",
+      "https://www.cultura.pe.gov.br/canal/espacosculturais/programacao-no-observatorio-da-torre-malakoff-convida-interessados-em-astronomia/",
+      "https://desvendandoufrpe.blogspot.com/2014/05/o-que-aconteceu-iv-mostra-de-astronomia.html",
+      "https://desvendandoufrpe.blogspot.com/2014/09/desvendando-o-ceu-austral-participa-de.html",
+      "https://desvendandoufrpe.blogspot.com/2014/09/desvendando-o-ceu-austral-participa-de_16.html",
+      "https://sectipe.blogspot.com/2020/10/clipmail-secti-08102020.html",
+      "https://www.museuitinerante.com/serra-do-mag%C3%A9",
+      "https://www.globgov.com/BR/Alagoinha/542516145768365/Prefeitura-Municipal-de-Alagoinha-PE",
+      "https://astronomiaufrpe.wixsite.com/desvendando",
+      "https://astronomiaufrpe.wixsite.com/desvendando/single-post/2017/05/29/iii-semana-da-populariza%C3%A7%C3%A3o-da-ci%C3%AAncia-no-semi%C3%A1rido-monteiro",
+      "https://www.facebook.com/UFRPEoficial/posts/samyr-pessoa-da-silva-esse-foi-o-nome-escolhido-por-71-dos-estudantes-da-ufrpe-p/3466004156789113/"
+    ],
+    "whatsapp_template_links": 1,
+    "image_imports": [
+      {
+        "module": "@/assets/drive/f1.webp",
+        "path": "src/assets/drive/f1.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f2.webp",
+        "path": "src/assets/drive/f2.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f3.webp",
+        "path": "src/assets/drive/f3.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f4.webp",
+        "path": "src/assets/drive/f4.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f5.webp",
+        "path": "src/assets/drive/f5.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f6.webp",
+        "path": "src/assets/drive/f6.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f7.webp",
+        "path": "src/assets/drive/f7.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f8.webp",
+        "path": "src/assets/drive/f8.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f9.webp",
+        "path": "src/assets/drive/f9.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f10.webp",
+        "path": "src/assets/drive/f10.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f11.webp",
+        "path": "src/assets/drive/f11.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f12.webp",
+        "path": "src/assets/drive/f12.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f13.webp",
+        "path": "src/assets/drive/f13.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f14.webp",
+        "path": "src/assets/drive/f14.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f15.webp",
+        "path": "src/assets/drive/f15.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/drive/f16.webp",
+        "path": "src/assets/drive/f16.webp",
+        "exists": true
+      },
+      {
+        "module": "@/assets/oasi-equipe.webp",
+        "path": "src/assets/oasi-equipe.webp",
+        "exists": true
+      }
+    ],
+    "missing_image_imports": [],
+    "telephone_links": 0
+  }
+}
