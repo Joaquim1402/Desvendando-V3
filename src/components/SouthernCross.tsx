@@ -1,0 +1,14 @@
+type Props = { className?: string };
+
+/** Identidade visual do projeto: as cinco estrelas do Cruzeiro do Sul, com espaçamento ampliado. */
+export function SouthernCross({ className }: Props) {
+  return (
+    <svg viewBox="0 0 64 64" className={className} fill="currentColor" role="img" aria-label="Cruzeiro do Sul">
+      <polygon points="32.00,1.40 33.76,6.07 38.75,6.31 34.85,9.43 36.17,14.24 32.00,11.50 27.83,14.24 29.15,9.43 25.25,6.31 30.24,6.07" />
+      <polygon points="7.20,26.20 8.67,29.98 12.72,30.21 9.58,32.77 10.61,36.69 7.20,34.50 3.79,36.69 4.82,32.77 1.68,30.21 5.73,29.98" />
+      <polygon points="56.70,24.70 58.17,28.48 62.22,28.71 59.08,31.27 60.11,35.19 56.70,33.00 53.29,35.19 54.32,31.27 51.18,28.71 55.23,28.48" />
+      <polygon points="33.00,49.60 34.70,53.95 39.37,54.23 35.76,57.20 36.94,61.72 33.00,59.20 29.06,61.72 30.24,57.20 26.63,54.23 31.30,53.95" />
+      <polygon points="43.00,36.30 43.88,38.59 46.33,38.72 44.43,40.26 45.06,42.63 43.00,41.30 40.94,42.63 41.57,40.26 39.67,38.72 42.12,38.59" />
+    </svg>
+  );
+}
